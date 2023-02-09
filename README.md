@@ -1,2 +1,2 @@
 # NER
-Named Entity Recognition in Polish
+Named Entity Recognition in Polish using CRF
